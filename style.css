@@ -1,0 +1,25 @@
+/* CSS Document */
+
+body{
+    font-family:Arial;
+    background:rgba(225, 132, 73, 0.4);
+}
+
+li{
+    list-style:none;
+}
+
+a{
+    color:#f7ff00;
+    font-size:20px;
+    font-style:italic;
+}
+
+#first{
+    color:white;
+}
+
+#BBQ{
+    color:rgba(172, 22, 15, 0.69);
+    font-weight:900;
+}
